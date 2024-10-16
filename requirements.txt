@@ -1,0 +1,8 @@
+cvxpy
+deap
+networkx
+numpy
+scipy
+scikit-learn
+scikit-fuzzy
+tensorflow
